@@ -15,3 +15,5 @@ A minimalist resume website created using HTML and CSS. This project is a simple
 ## Customization
 
 Feel free to modify the content in the resume.html file to add your own information, skills, and experience. You can also update the styles.css file to change the look and feel of the website as needed.
+
+![myresume](https://github.com/user-attachments/assets/60f7017f-6bf5-4321-83ec-b99c7675b731)
