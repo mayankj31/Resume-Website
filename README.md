@@ -1,4 +1,5 @@
-Basic Resume Website
+# Basic Resume Website
+
 A minimalist resume website created using HTML and CSS. This project is a simple, responsive webpage designed to showcase my personal information, skills, and professional experience.
 
 Features :
