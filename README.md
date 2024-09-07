@@ -11,3 +11,7 @@ A minimalist resume website created using HTML and CSS. This project is a simple
 -> Responsive design for various screen sizes (desktop and mobile-friendly).
 
 -> Clean, modern layout using basic HTML and CSS techniques.
+
+## Customization
+
+Feel free to modify the content in the index.html file to add your own information, skills, and experience. You can also update the styles.css file to change the look and feel of the website as needed.
