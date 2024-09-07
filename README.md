@@ -2,7 +2,7 @@
 
 A minimalist resume website created using HTML and CSS. This project is a simple, responsive webpage designed to showcase my personal information, skills, and professional experience.
 
-Features :
+## Features :
 
 -> Personal details: Name, contact information, and a brief introduction.
 
